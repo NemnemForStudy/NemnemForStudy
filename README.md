@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&timeGradient=_hexcode&height=300&section=header&text=Welcome&fontSize=80&fontAlignY=40" />
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&timeGradient=_hexcode&height=300&section=header&text=Welcome&fontSize=80&fontAlignY=40" />
+</p>
 <p align="center">
   🎖️ Skills & Languages
 </p>
@@ -20,5 +21,6 @@
 </p>
 
 <p align="center">
+  OneLine </br>
   Backend 개발을 위해 열심히 공부하고 있는 신입 개발자 임창섭이라고 합니다
 </p>
