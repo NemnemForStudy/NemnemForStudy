@@ -31,6 +31,7 @@
 <br/><br/>
 
 * **코리아 IT 아카데미 웹 개발** <I>2022.12 ~ 2023.05</I>
+* **아티스시스템 재직 중** <I>2023.06 ~</I>
 
 ✨  <I>[RESUME](https://experienced-acrylic-7c5.notion.site/Backend-1a3864ab4c5f4af7bbfdd8aaadbbed0d)</I>    
 🌱  <I>[PORTFOLIO BACK](https://github.com/jaehyeon502/festivalProject_back) | [PORTFOLIO FRONT](https://github.com/jaehyeon502/festivalProject_front)</I>      
