@@ -29,9 +29,9 @@
 <br/>
 ➡️  Backend 개발을 위해 열심히 공부하고 있는 개발자 임창섭이라고 합니다
 ➡️  현재는 Android Studio에 관심이 생겨 Kotlin 공부중입니다.
-토이 프로젝트 2개 
-<I>https://github.com/NemnemForStudy/simpleWeatherProject</I>
-<I>https://github.com/NemnemForStudy/SimplePeopleCountApp</I>
+토이 프로젝트 2개 <br/>
+<I>https://github.com/NemnemForStudy/simpleWeatherProject</I><br/>
+<I>https://github.com/NemnemForStudy/SimplePeopleCountApp</I><br/>
 코틀린 공부중 <I>https://github.com/NemnemForStudy/WeEveryTrip</I>
 <br/><br/>
 
