@@ -27,7 +27,12 @@
 </p>
 :speech_balloon: OneLine
 <br/>
-➡️  Backend 개발을 위해 열심히 공부하고 있는 신입 개발자 임창섭이라고 합니다
+➡️  Backend 개발을 위해 열심히 공부하고 있는 개발자 임창섭이라고 합니다
+➡️  현재는 Android Studio에 관심이 생겨 Kotlin 공부중입니다.
+토이 프로젝트 2개 
+<I>https://github.com/NemnemForStudy/simpleWeatherProject</I>
+<I>https://github.com/NemnemForStudy/SimplePeopleCountApp</I>
+코틀린 공부중 <I>https://github.com/NemnemForStudy/WeEveryTrip</I>
 <br/><br/>
 
 * **코리아 IT 아카데미 웹 개발** <I>2022.12 ~ 2023.05</I>
@@ -35,4 +40,3 @@
 
 ✨  <I>[RESUME](https://experienced-acrylic-7c5.notion.site/Backend-1a3864ab4c5f4af7bbfdd8aaadbbed0d)</I>    
 🌱  <I>[PORTFOLIO BACK](https://github.com/jaehyeon502/festivalProject_back) | [PORTFOLIO FRONT](https://github.com/jaehyeon502/festivalProject_front)</I>      
-✏️  <I>[TISTORY](https://nemnem-lifestory.tistory.com/)</I>
